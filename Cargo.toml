@@ -1,0 +1,17 @@
+[package]
+name = "voronoi"
+version = "1.0.0"
+authors = ["Tomas Coiro <coirotomas@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+image = "0.23.4"
+
+[dependencies.piston]
+
+git = "https://github.com/PistonDevelopers/piston.git"
+
+[dependencies.piston_window]
+
+git = "https://github.com/PistonDevelopers/piston_window.git"
