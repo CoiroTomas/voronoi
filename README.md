@@ -4,9 +4,13 @@ A toy program to visualize Voronoi diagrams
 # Controls
 
 click in the window -> Puts a point in the clicked place
+
 s -> Saves the current image to a png file
+
 r -> Erases all the points in the image
+
 d -> Removes/adds the dots that mark where the points are
+
 left/right arrow -> Changes the distance algorithm in the order of Euclidean/Manhattan/Chebyshev
 
 # Running
